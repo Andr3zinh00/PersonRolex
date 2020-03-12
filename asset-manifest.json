@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PersonRolex/static/css/main.78bca910.chunk.css",
+    "main.js": "/PersonRolex/static/js/main.b4d8296c.chunk.js",
+    "main.js.map": "/PersonRolex/static/js/main.b4d8296c.chunk.js.map",
+    "runtime-main.js": "/PersonRolex/static/js/runtime-main.d3c1dbee.js",
+    "runtime-main.js.map": "/PersonRolex/static/js/runtime-main.d3c1dbee.js.map",
+    "static/js/2.6e2f278f.chunk.js": "/PersonRolex/static/js/2.6e2f278f.chunk.js",
+    "static/js/2.6e2f278f.chunk.js.map": "/PersonRolex/static/js/2.6e2f278f.chunk.js.map",
+    "index.html": "/PersonRolex/index.html",
+    "precache-manifest.21e799b2ae61acb5d97f69c09bb2ba73.js": "/PersonRolex/precache-manifest.21e799b2ae61acb5d97f69c09bb2ba73.js",
+    "service-worker.js": "/PersonRolex/service-worker.js",
+    "static/css/main.78bca910.chunk.css.map": "/PersonRolex/static/css/main.78bca910.chunk.css.map",
+    "static/js/2.6e2f278f.chunk.js.LICENSE.txt": "/PersonRolex/static/js/2.6e2f278f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3c1dbee.js",
+    "static/js/2.6e2f278f.chunk.js",
+    "static/css/main.78bca910.chunk.css",
+    "static/js/main.b4d8296c.chunk.js"
+  ]
+}
